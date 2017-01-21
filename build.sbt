@@ -2,7 +2,7 @@ name := "ShareMyBike"
 
 version := "1.0"
 
-scalaVersion := "2.12.1"
+scalaVersion := "2.11.7"
 
 scalacOptions := Seq("-unchecked", "-deprecation", "-encoding", "utf8")
 
@@ -17,7 +17,10 @@ libraryDependencies ++= {
     "com.typesafe.akka" %% "akka-http" % akkaHttpV,
     "com.typesafe.akka" %% "akka-http-spray-json" % akkaHttpV,
     "com.typesafe.akka" %% "akka-http-testkit" % akkaHttpV,
-    "org.scalatest"     %% "scalatest" % scalaTestV % "test"
+    "org.scalatest"     %% "scalatest" % scalaTestV % "test",
+    "org.postgresql" % "postgresql" % "9.3-1100-jdbc4",
+    "com.typesafe.slick" %% "slick" % "2.1.0"
+
   )
 }
 

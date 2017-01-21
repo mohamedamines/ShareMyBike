@@ -4,7 +4,7 @@
 		module="sharemybike_2.12"
 		revision="1.0"
 		status="integration"
-		publication="20170114211723"
+		publication="20170121162548"
 	>
 		<description>
 		ShareMyBike
@@ -41,5 +41,6 @@
 		<dependency org="com.typesafe.akka" name="akka-http-spray-json_2.12" rev="10.0.1" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.akka" name="akka-http-testkit_2.12" rev="10.0.1" conf="compile->default(compile)"/>
 		<dependency org="org.scalatest" name="scalatest_2.12" rev="3.0.1" conf="test->default(compile)"/>
+		<dependency org="com.typesafe.slick" name="slick_2.12" rev="3.1.1" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>

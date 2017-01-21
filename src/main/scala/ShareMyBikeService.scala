@@ -12,59 +12,65 @@ import spray.json.DefaultJsonProtocol._
 
 import scala.io.StdIn
 import scala.concurrent.Future
+import scala.slick.lifted.TableQuery
+import scala.slick.driver.PostgresDriver.simple._
 
 object ShareMyBikeService {
 
-  // domain model
-  case class Bike(id: Long, speed: Double, description: String)
+  val connectionUrl = "jdbc:postgresql://localhost:5433/med?user=postgres&password=medamine"
 
-  // formats for unmarshalling and marshalling
+  case class Bike(id: Long, speed: Int, description: String)
+
   implicit val bikeFormat = jsonFormat3(Bike)
 
-  // fake async database query api
-  def fetchBike(id: Long): Future[Option[Bike]] = ???
-  def saveBike(bike: Bike): Future[Done] = ???
+  Database.forURL(connectionUrl, driver = "org.postgresql.Driver") withSession {
+    implicit session =>
+      val bikes = TableQuery[Bikes]
 
-  def main(args: Array[String]) {
+      def fetchBike(id: Long): Future[Option[Bike]] = ???
 
-    implicit val system = ActorSystem()
-    implicit val executor = system.dispatcher
-    implicit val materializer = ActorMaterializer()
+      def saveBike(bike: Bike): Future[Done] = ???
 
-    val config = ConfigFactory.load()
-    val logger = Logging(system, getClass)
+      def main(args: Array[String]) {
 
-    val route: Route =
-      get {
-        pathPrefix("bike" / LongNumber) { id =>
-          val maybeBike: Future[Option[Bike]] = fetchBike(id)
+        implicit val system = ActorSystem()
+        implicit val executor = system.dispatcher
+        implicit val materializer = ActorMaterializer()
 
-          onSuccess(maybeBike) {
-            case Some(item) => complete(item)
-            case None => complete(StatusCodes.NotFound)
-          }
-        }
-      } ~
-    post {
-      path("create-bike") {
-        entity(as[Bike]) { bike =>
-          val saved: Future[Done] = saveBike(bike)
-          onComplete(saved) { done =>
-            complete("bike saved")
+        val config = ConfigFactory.load()
+        val logger = Logging(system, getClass)
 
-          }
-        }
+        val route: Route =
+          get {
+            pathPrefix("bike" / LongNumber) { id =>
+              val maybeBike: Future[Option[Bike]] = fetchBike(id)
+
+              onSuccess(maybeBike) {
+                case Some(item) => complete(item)
+                case None => complete(StatusCodes.NotFound)
+              }
+            }
+          } ~
+            post {
+              path("create-bike") {
+                entity(as[Bike]) { bike =>
+                  val saved: Future[Done] = saveBike(bike)
+                  onComplete(saved) { done =>
+                    complete("bike saved")
+
+                  }
+                }
+              }
+
+            }
+
+        val bindingFuture = Http().bindAndHandle(route, config.getString("http.interface"), config.getInt("http.port"))
+
+        println(s"Server online at http://localhost:9000/\nPress RETURN to stop...")
+        StdIn.readLine()
+        bindingFuture
+          .flatMap(_.unbind())
+          .onComplete(_ => system.terminate())
       }
-
-    }
-
-    val bindingFuture = Http().bindAndHandle(route, config.getString("http.interface"), config.getInt("http.port"))
-
-    println(s"Server online at http://localhost:9000/\nPress RETURN to stop...")
-    StdIn.readLine()
-    bindingFuture
-      .flatMap(_.unbind())
-      .onComplete(_ => system.terminate())
   }
-
 }

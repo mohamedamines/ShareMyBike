@@ -92,7 +92,6 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflect;2.10.6 {default=[default(compile)]} => dependency: org.scala-lang#scala-reflect;2.10.6 {default=[default(compile)]}
 [info] Resolving org.scala-lang#scala-compiler;2.10.6 ...
 [debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-compiler;2.10.6 {compile=[default(compile)]}
-[debug] no default cache defined: set to /Users/azerty/.ivy2/cache
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.10.6
 [debug] 	found org.scala-lang#scala-compiler;2.10.6 in sbt-chain
 [debug] == resolving dependencies org.scala-sbt#classpath;0.13.13->org.scala-lang#scala-compiler;2.10.6 [compile->runtime]
@@ -2089,58 +2088,8 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflect;2.10.6 {default=[default(compile)]} => dependency: org.scala-lang#scala-reflect;2.10.6 {default=[default(compile)]}
 [info] Resolving org.jboss.interceptor#jboss-interceptor-api;1.1 ...
 [debug] sbt-chain: Checking cache for: dependency: org.jboss.interceptor#jboss-interceptor-api;1.1 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
-[info] Resolving org.jboss.interceptor#jboss-interceptor-api;1.1 ...
-[debug] sbt-chain-delegate: Checking cache for: dependency: org.jboss.interceptor#jboss-interceptor-api;1.1 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
-[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.jboss.interceptor/jboss-interceptor-api/1.1/ivys/ivy.xml
-[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/org.jboss.interceptor/jboss-interceptor-api/1.1/ivys/ivy.xml
-[debug] 	typesafe-ivy-releases: no ivy file found for org.jboss.interceptor#jboss-interceptor-api;1.1
-[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.jboss.interceptor/jboss-interceptor-api/1.1/ivys/ivy.xml
-[debug] CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.jboss.interceptor/jboss-interceptor-api/1.1/ivys/ivy.xml
-[debug] 	sbt-plugin-releases: no ivy file found for org.jboss.interceptor#jboss-interceptor-api;1.1
-[debug] 		tried /Users/azerty/.ivy2/local/org.jboss.interceptor/jboss-interceptor-api/1.1/ivys/ivy.xml
-[debug] 	local: no ivy file found for org.jboss.interceptor#jboss-interceptor-api;1.1
-[debug] 		tried https://repo1.maven.org/maven2/org/jboss/interceptor/jboss-interceptor-api/1.1/jboss-interceptor-api-1.1.pom
-[debug] 	public: found md file for org.jboss.interceptor#jboss-interceptor-api;1.1
-[debug] 		=> https://repo1.maven.org/maven2/org/jboss/interceptor/jboss-interceptor-api/1.1/jboss-interceptor-api-1.1.pom (1.1)
-[debug] downloading https://repo1.maven.org/maven2/org/jboss/interceptor/jboss-interceptor-api/1.1/jboss-interceptor-api-1.1.pom ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/jboss/interceptor/jboss-interceptor-api/1.1/jboss-interceptor-api-1.1.pom
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/jboss/interceptor/jboss-interceptor-api/1.1/jboss-interceptor-api-1.1.pom.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/jboss/interceptor/jboss-interceptor-api/1.1/jboss-interceptor-api-1.1.pom
-[debug] 	[SUCCESSFUL ] org.jboss.interceptor#jboss-interceptor-api;1.1!jboss-interceptor-api.pom(pom.original) (303ms)
-[info] Resolving org.jboss#jboss-parent;4 ...
-[debug] sbt-chain: Checking cache for: dependency: org.jboss#jboss-parent;4 {}
-[info] Resolving org.jboss#jboss-parent;4 ...
-[debug] sbt-chain-delegate: Checking cache for: dependency: org.jboss#jboss-parent;4 {}
-[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.jboss/jboss-parent/4/ivys/ivy.xml
-[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/org.jboss/jboss-parent/4/ivys/ivy.xml
-[debug] 	typesafe-ivy-releases: no ivy file found for org.jboss#jboss-parent;4
-[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.jboss/jboss-parent/4/ivys/ivy.xml
-[debug] CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.jboss/jboss-parent/4/ivys/ivy.xml
-[debug] 	sbt-plugin-releases: no ivy file found for org.jboss#jboss-parent;4
-[debug] 		tried /Users/azerty/.ivy2/local/org.jboss/jboss-parent/4/ivys/ivy.xml
-[debug] 	local: no ivy file found for org.jboss#jboss-parent;4
-[debug] 		tried https://repo1.maven.org/maven2/org/jboss/jboss-parent/4/jboss-parent-4.pom
-[debug] 	public: found md file for org.jboss#jboss-parent;4
-[debug] 		=> https://repo1.maven.org/maven2/org/jboss/jboss-parent/4/jboss-parent-4.pom (4)
-[debug] downloading https://repo1.maven.org/maven2/org/jboss/jboss-parent/4/jboss-parent-4.pom ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/jboss/jboss-parent/4/jboss-parent-4.pom
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/jboss/jboss-parent/4/jboss-parent-4.pom.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/jboss/jboss-parent/4/jboss-parent-4.pom
-[debug] 	[SUCCESSFUL ] org.jboss#jboss-parent;4!jboss-parent.pom(pom.original) (316ms)
-[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.jboss/jboss-parent/4/jars/jboss-parent.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/org.jboss/jboss-parent/4/jars/jboss-parent.jar
-[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.jboss/jboss-parent/4/jars/jboss-parent.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.jboss/jboss-parent/4/jars/jboss-parent.jar
-[debug] 		tried /Users/azerty/.ivy2/local/org.jboss/jboss-parent/4/jars/jboss-parent.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/jboss/jboss-parent/4/jboss-parent-4.jar
-[debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/jboss/jboss-parent/4/jboss-parent-4.jar
-[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.jboss.interceptor/jboss-interceptor-api/1.1/jars/jboss-interceptor-api.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/org.jboss.interceptor/jboss-interceptor-api/1.1/jars/jboss-interceptor-api.jar
-[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.jboss.interceptor/jboss-interceptor-api/1.1/jars/jboss-interceptor-api.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.jboss.interceptor/jboss-interceptor-api/1.1/jars/jboss-interceptor-api.jar
-[debug] 		tried /Users/azerty/.ivy2/local/org.jboss.interceptor/jboss-interceptor-api/1.1/jars/jboss-interceptor-api.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/jboss/interceptor/jboss-interceptor-api/1.1/jboss-interceptor-api-1.1.jar
-[debug] 	found org.jboss.interceptor#jboss-interceptor-api;1.1 in public
+[debug] sbt-chain: module revision found in cache: org.jboss.interceptor#jboss-interceptor-api;1.1
+[debug] 	found org.jboss.interceptor#jboss-interceptor-api;1.1 in sbt-chain
 [debug] == resolving dependencies javax.enterprise#cdi-api;1.0->org.jboss.interceptor#jboss-interceptor-api;1.1 [compile->compile(*)]
 [debug] == resolving dependencies javax.enterprise#cdi-api;1.0->javax.annotation#jsr250-api;1.0 [compile->master(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.4 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]}
@@ -2473,15 +2422,10 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.13!apply-macro.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/jboss/interceptor/jboss-interceptor-api/1.1/jboss-interceptor-api-1.1.jar
-[info] downloading https://repo1.maven.org/maven2/org/jboss/interceptor/jboss-interceptor-api/1.1/jboss-interceptor-api-1.1.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/jboss/interceptor/jboss-interceptor-api/1.1/jboss-interceptor-api-1.1.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/jboss/interceptor/jboss-interceptor-api/1.1/jboss-interceptor-api-1.1.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/jboss/interceptor/jboss-interceptor-api/1.1/jboss-interceptor-api-1.1.jar
-[info] 	[SUCCESSFUL ] org.jboss.interceptor#jboss-interceptor-api;1.1!jboss-interceptor-api.jar (306ms)
-[debug] :: resolution report :: resolve 6906ms :: artifacts dl 326ms
+[debug] 	[NOT REQUIRED] org.jboss.interceptor#jboss-interceptor-api;1.1!jboss-interceptor-api.jar
+[debug] :: resolution report :: resolve 2352ms :: artifacts dl 66ms
 [debug] 	report for default#sharemybike$sbt_2.10;1.0 default produced in /Users/azerty/IdeaProjects/ShareMyBike/target/resolution-cache/reports/default-sharemybike$sbt_2.10-default.xml
-[debug] 	resolve done (6906ms resolve - 326ms download)
+[debug] 	resolve done (2352ms resolve - 66ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: default#sharemybike$sources_2.10;1.0
 [debug] 	confs: [default]
@@ -3619,156 +3563,39 @@
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
 [debug] 	[NOT REQUIRED] org.scala-sbt#main;0.13.13!main.jar(src)
-[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.eclipse.sisu/org.eclipse.sisu.inject/0.3.0/srcs/org.eclipse.sisu.inject-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/org.eclipse.sisu/org.eclipse.sisu.inject/0.3.0/srcs/org.eclipse.sisu.inject-sources.jar
-[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.eclipse.sisu/org.eclipse.sisu.inject/0.3.0/srcs/org.eclipse.sisu.inject-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.eclipse.sisu/org.eclipse.sisu.inject/0.3.0/srcs/org.eclipse.sisu.inject-sources.jar
-[debug] 		tried /Users/azerty/.ivy2/local/org.eclipse.sisu/org.eclipse.sisu.inject/0.3.0/srcs/org.eclipse.sisu.inject-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.3.0/org.eclipse.sisu.inject-0.3.0-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.3.0/org.eclipse.sisu.inject-0.3.0-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.3.0/org.eclipse.sisu.inject-0.3.0-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.3.0/org.eclipse.sisu.inject-0.3.0-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.3.0/org.eclipse.sisu.inject-0.3.0-sources.jar
-[info] 	[SUCCESSFUL ] org.eclipse.sisu#org.eclipse.sisu.inject;0.3.0!org.eclipse.sisu.inject.jar(src) (1122ms)
+[debug] 	[NOT REQUIRED] org.eclipse.sisu#org.eclipse.sisu.inject;0.3.0!org.eclipse.sisu.inject.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#io;0.13.13!io.jar(src)
-[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/javax.enterprise/cdi-api/1.0/srcs/cdi-api-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/javax.enterprise/cdi-api/1.0/srcs/cdi-api-sources.jar
-[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/javax.enterprise/cdi-api/1.0/srcs/cdi-api-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/javax.enterprise/cdi-api/1.0/srcs/cdi-api-sources.jar
-[debug] 		tried /Users/azerty/.ivy2/local/javax.enterprise/cdi-api/1.0/srcs/cdi-api-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0-sources.jar
-[info] downloading https://repo1.maven.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0-sources.jar
-[info] 	[SUCCESSFUL ] javax.enterprise#cdi-api;1.0!cdi-api.jar(src) (616ms)
-[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.apache.maven/maven-model/3.3.3/srcs/maven-model-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/org.apache.maven/maven-model/3.3.3/srcs/maven-model-sources.jar
-[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.apache.maven/maven-model/3.3.3/srcs/maven-model-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.apache.maven/maven-model/3.3.3/srcs/maven-model-sources.jar
-[debug] 		tried /Users/azerty/.ivy2/local/org.apache.maven/maven-model/3.3.3/srcs/maven-model-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.3.3/maven-model-3.3.3-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.3.3/maven-model-3.3.3-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.3.3/maven-model-3.3.3-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.3.3/maven-model-3.3.3-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/maven/maven-model/3.3.3/maven-model-3.3.3-sources.jar
-[info] 	[SUCCESSFUL ] org.apache.maven#maven-model;3.3.3!maven-model.jar(src) (643ms)
-[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.apache.maven/maven-artifact/3.3.3/srcs/maven-artifact-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/org.apache.maven/maven-artifact/3.3.3/srcs/maven-artifact-sources.jar
-[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.apache.maven/maven-artifact/3.3.3/srcs/maven-artifact-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.apache.maven/maven-artifact/3.3.3/srcs/maven-artifact-sources.jar
-[debug] 		tried /Users/azerty/.ivy2/local/org.apache.maven/maven-artifact/3.3.3/srcs/maven-artifact-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/apache/maven/maven-artifact/3.3.3/maven-artifact-3.3.3-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/apache/maven/maven-artifact/3.3.3/maven-artifact-3.3.3-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/maven/maven-artifact/3.3.3/maven-artifact-3.3.3-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/maven/maven-artifact/3.3.3/maven-artifact-3.3.3-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/maven/maven-artifact/3.3.3/maven-artifact-3.3.3-sources.jar
-[info] 	[SUCCESSFUL ] org.apache.maven#maven-artifact;3.3.3!maven-artifact.jar(src) (484ms)
+[debug] 	[NOT REQUIRED] javax.enterprise#cdi-api;1.0!cdi-api.jar(src)
+[debug] 	[NOT REQUIRED] org.apache.maven#maven-model;3.3.3!maven-model.jar(src)
+[debug] 	[NOT REQUIRED] org.apache.maven#maven-artifact;3.3.3!maven-artifact.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#compiler-ivy-integration;0.13.13!compiler-ivy-integration.jar(src)
-[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.tukaani/xz/1.0/srcs/xz-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/org.tukaani/xz/1.0/srcs/xz-sources.jar
-[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.tukaani/xz/1.0/srcs/xz-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.tukaani/xz/1.0/srcs/xz-sources.jar
-[debug] 		tried /Users/azerty/.ivy2/local/org.tukaani/xz/1.0/srcs/xz-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/tukaani/xz/1.0/xz-1.0-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/tukaani/xz/1.0/xz-1.0-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/tukaani/xz/1.0/xz-1.0-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/tukaani/xz/1.0/xz-1.0-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/tukaani/xz/1.0/xz-1.0-sources.jar
-[info] 	[SUCCESSFUL ] org.tukaani#xz;1.0!xz.jar(src) (652ms)
+[debug] 	[NOT REQUIRED] org.tukaani#xz;1.0!xz.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#classpath;0.13.13!classpath.jar(src)
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.11!jansi.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#run;0.13.13!run.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#logic;0.13.13!logic.jar(src)
-[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.apache.ant/ant-launcher/1.9.6/srcs/ant-launcher-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/org.apache.ant/ant-launcher/1.9.6/srcs/ant-launcher-sources.jar
-[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.apache.ant/ant-launcher/1.9.6/srcs/ant-launcher-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.apache.ant/ant-launcher/1.9.6/srcs/ant-launcher-sources.jar
-[debug] 		tried /Users/azerty/.ivy2/local/org.apache.ant/ant-launcher/1.9.6/srcs/ant-launcher-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/apache/ant/ant-launcher/1.9.6/ant-launcher-1.9.6-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/apache/ant/ant-launcher/1.9.6/ant-launcher-1.9.6-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/ant/ant-launcher/1.9.6/ant-launcher-1.9.6-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/ant/ant-launcher/1.9.6/ant-launcher-1.9.6-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/ant/ant-launcher/1.9.6/ant-launcher-1.9.6-sources.jar
-[info] 	[SUCCESSFUL ] org.apache.ant#ant-launcher;1.9.6!ant-launcher.jar(src) (411ms)
-[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.codehaus.plexus/plexus-utils/3.0.20/srcs/plexus-utils-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/org.codehaus.plexus/plexus-utils/3.0.20/srcs/plexus-utils-sources.jar
-[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.codehaus.plexus/plexus-utils/3.0.20/srcs/plexus-utils-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.codehaus.plexus/plexus-utils/3.0.20/srcs/plexus-utils-sources.jar
-[debug] 		tried /Users/azerty/.ivy2/local/org.codehaus.plexus/plexus-utils/3.0.20/srcs/plexus-utils-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0.20/plexus-utils-3.0.20-sources.jar
-[info] 	[SUCCESSFUL ] org.codehaus.plexus#plexus-utils;3.0.20!plexus-utils.jar(src) (992ms)
+[debug] 	[NOT REQUIRED] org.apache.ant#ant-launcher;1.9.6!ant-launcher.jar(src)
+[debug] 	[NOT REQUIRED] org.codehaus.plexus#plexus-utils;3.0.20!plexus-utils.jar(src)
 [debug] 	[NOT REQUIRED] org.scalamacros#quasiquotes_2.10;2.0.1!quasiquotes_2.10.jar(src)
-[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.apache.maven/maven-plugin-api/3.3.3/srcs/maven-plugin-api-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/org.apache.maven/maven-plugin-api/3.3.3/srcs/maven-plugin-api-sources.jar
-[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.apache.maven/maven-plugin-api/3.3.3/srcs/maven-plugin-api-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.apache.maven/maven-plugin-api/3.3.3/srcs/maven-plugin-api-sources.jar
-[debug] 		tried /Users/azerty/.ivy2/local/org.apache.maven/maven-plugin-api/3.3.3/srcs/maven-plugin-api-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/apache/maven/maven-plugin-api/3.3.3/maven-plugin-api-3.3.3-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/apache/maven/maven-plugin-api/3.3.3/maven-plugin-api-3.3.3-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/maven/maven-plugin-api/3.3.3/maven-plugin-api-3.3.3-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/maven/maven-plugin-api/3.3.3/maven-plugin-api-3.3.3-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/maven/maven-plugin-api/3.3.3/maven-plugin-api-3.3.3-sources.jar
-[info] 	[SUCCESSFUL ] org.apache.maven#maven-plugin-api;3.3.3!maven-plugin-api.jar(src) (474ms)
+[debug] 	[NOT REQUIRED] org.apache.maven#maven-plugin-api;3.3.3!maven-plugin-api.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#cross;0.13.13!cross.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#serialization_2.10;0.1.2!serialization_2.10.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-pickling_2.10;0.10.1!scala-pickling_2.10.jar(src)
-[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.codehaus.plexus/plexus-classworlds/2.5.2/srcs/plexus-classworlds-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/org.codehaus.plexus/plexus-classworlds/2.5.2/srcs/plexus-classworlds-sources.jar
-[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.codehaus.plexus/plexus-classworlds/2.5.2/srcs/plexus-classworlds-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.codehaus.plexus/plexus-classworlds/2.5.2/srcs/plexus-classworlds-sources.jar
-[debug] 		tried /Users/azerty/.ivy2/local/org.codehaus.plexus/plexus-classworlds/2.5.2/srcs/plexus-classworlds-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.2/plexus-classworlds-2.5.2-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.2/plexus-classworlds-2.5.2-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.2/plexus-classworlds-2.5.2-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.2/plexus-classworlds-2.5.2-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.2/plexus-classworlds-2.5.2-sources.jar
-[info] 	[SUCCESSFUL ] org.codehaus.plexus#plexus-classworlds;2.5.2!plexus-classworlds.jar(src) (486ms)
+[debug] 	[NOT REQUIRED] org.codehaus.plexus#plexus-classworlds;2.5.2!plexus-classworlds.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#persist;0.13.13!persist.jar(src)
-[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.scalactic/scalactic_2.10/2.2.1/srcs/scalactic_2.10-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/org.scalactic/scalactic_2.10/2.2.1/srcs/scalactic_2.10-sources.jar
-[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scalactic/scalactic_2.10/2.2.1/srcs/scalactic_2.10-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scalactic/scalactic_2.10/2.2.1/srcs/scalactic_2.10-sources.jar
-[debug] 		tried /Users/azerty/.ivy2/local/org.scalactic/scalactic_2.10/2.2.1/srcs/scalactic_2.10-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/scalactic/scalactic_2.10/2.2.1/scalactic_2.10-2.2.1-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/scalactic/scalactic_2.10/2.2.1/scalactic_2.10-2.2.1-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scalactic/scalactic_2.10/2.2.1/scalactic_2.10-2.2.1-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scalactic/scalactic_2.10/2.2.1/scalactic_2.10-2.2.1-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scalactic/scalactic_2.10/2.2.1/scalactic_2.10-2.2.1-sources.jar
-[info] 	[SUCCESSFUL ] org.scalactic#scalactic_2.10;2.2.1!scalactic_2.10.jar(src) (371ms)
+[debug] 	[NOT REQUIRED] org.scalactic#scalactic_2.10;2.2.1!scalactic_2.10.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#compiler-interface;0.13.13!compiler-interface.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#collections;0.13.13!collections.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#main-settings;0.13.13!main-settings.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#relation;0.13.13!relation.jar(src)
-[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.ow2.asm/asm/5.0.4/srcs/asm-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/org.ow2.asm/asm/5.0.4/srcs/asm-sources.jar
-[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.ow2.asm/asm/5.0.4/srcs/asm-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.ow2.asm/asm/5.0.4/srcs/asm-sources.jar
-[debug] 		tried /Users/azerty/.ivy2/local/org.ow2.asm/asm/5.0.4/srcs/asm-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/ow2/asm/asm/5.0.4/asm-5.0.4-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/ow2/asm/asm/5.0.4/asm-5.0.4-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm/5.0.4/asm-5.0.4-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm/5.0.4/asm-5.0.4-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/ow2/asm/asm/5.0.4/asm-5.0.4-sources.jar
-[info] 	[SUCCESSFUL ] org.ow2.asm#asm;5.0.4!asm.jar(src) (2880ms)
+[debug] 	[NOT REQUIRED] org.ow2.asm#asm;5.0.4!asm.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#tasks;0.13.13!tasks.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.10.6!scala-reflect.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#task-system;0.13.13!task-system.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt.ivy#ivy;2.3.0-sbt-2cf13e211b2cb31f0d3b317289dca70eca3362f6!ivy.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.13!jline.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#control;0.13.13!control.jar(src)
-[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/io.spray/sbt-revolver/scala_2.10/sbt_0.13/0.8.0/srcs/sbt-revolver-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/io.spray/sbt-revolver/scala_2.10/sbt_0.13/0.8.0/srcs/sbt-revolver-sources.jar
-[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/io.spray/sbt-revolver/scala_2.10/sbt_0.13/0.8.0/srcs/sbt-revolver-sources.jar
-[info] downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/io.spray/sbt-revolver/scala_2.10/sbt_0.13/0.8.0/srcs/sbt-revolver-sources.jar ...
-[debug] 	sbt-plugin-releases: downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/io.spray/sbt-revolver/scala_2.10/sbt_0.13/0.8.0/srcs/sbt-revolver-sources.jar
-[debug] 	sbt-plugin-releases: downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/io.spray/sbt-revolver/scala_2.10/sbt_0.13/0.8.0/srcs/sbt-revolver-sources.jar.sha1
-[debug] sha1 OK for https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/io.spray/sbt-revolver/scala_2.10/sbt_0.13/0.8.0/srcs/sbt-revolver-sources.jar
-[info] 	[SUCCESSFUL ] io.spray#sbt-revolver;0.8.0!sbt-revolver.jar(src) (3302ms)
+[debug] 	[NOT REQUIRED] io.spray#sbt-revolver;0.8.0!sbt-revolver.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#actions;0.13.13!actions.jar(src)
 [debug] 	[NOT REQUIRED] org.json4s#json4s-core_2.10;3.2.10!json4s-core_2.10.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#testing;0.13.13!testing.jar(src)
@@ -3777,115 +3604,28 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#cache;0.13.13!cache.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#tracking;0.13.13!tracking.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#ivy;0.13.13!ivy.jar(src)
-[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/com.eed3si9n/sbt-assembly/scala_2.10/sbt_0.13/0.14.3/srcs/sbt-assembly-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/com.eed3si9n/sbt-assembly/scala_2.10/sbt_0.13/0.14.3/srcs/sbt-assembly-sources.jar
-[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.eed3si9n/sbt-assembly/scala_2.10/sbt_0.13/0.14.3/srcs/sbt-assembly-sources.jar
-[info] downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.eed3si9n/sbt-assembly/scala_2.10/sbt_0.13/0.14.3/srcs/sbt-assembly-sources.jar ...
-[debug] 	sbt-plugin-releases: downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.eed3si9n/sbt-assembly/scala_2.10/sbt_0.13/0.14.3/srcs/sbt-assembly-sources.jar
-[debug] 	sbt-plugin-releases: downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.eed3si9n/sbt-assembly/scala_2.10/sbt_0.13/0.14.3/srcs/sbt-assembly-sources.jar.sha1
-[debug] sha1 OK for https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.eed3si9n/sbt-assembly/scala_2.10/sbt_0.13/0.14.3/srcs/sbt-assembly-sources.jar
-[info] 	[SUCCESSFUL ] com.eed3si9n#sbt-assembly;0.14.3!sbt-assembly.jar(src) (3264ms)
+[debug] 	[NOT REQUIRED] com.eed3si9n#sbt-assembly;0.14.3!sbt-assembly.jar(src)
 [debug] 	[NOT REQUIRED] org.spire-math#jawn-parser_2.10;0.6.0!jawn-parser_2.10.jar(src)
-[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.ow2.asm/asm-commons/5.0.4/srcs/asm-commons-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/org.ow2.asm/asm-commons/5.0.4/srcs/asm-commons-sources.jar
-[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.ow2.asm/asm-commons/5.0.4/srcs/asm-commons-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.ow2.asm/asm-commons/5.0.4/srcs/asm-commons-sources.jar
-[debug] 		tried /Users/azerty/.ivy2/local/org.ow2.asm/asm-commons/5.0.4/srcs/asm-commons-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/ow2/asm/asm-commons/5.0.4/asm-commons-5.0.4-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-commons/5.0.4/asm-commons-5.0.4-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-commons/5.0.4/asm-commons-5.0.4-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-commons/5.0.4/asm-commons-5.0.4-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/ow2/asm/asm-commons/5.0.4/asm-commons-5.0.4-sources.jar
-[info] 	[SUCCESSFUL ] org.ow2.asm#asm-commons;5.0.4!asm-commons.jar(src) (3143ms)
+[debug] 	[NOT REQUIRED] org.ow2.asm#asm-commons;5.0.4!asm-commons.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#compile;0.13.13!compile.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#compiler-integration;0.13.13!compiler-integration.jar(src)
-[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.ow2.asm/asm-tree/5.0.4/srcs/asm-tree-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/org.ow2.asm/asm-tree/5.0.4/srcs/asm-tree-sources.jar
-[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.ow2.asm/asm-tree/5.0.4/srcs/asm-tree-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.ow2.asm/asm-tree/5.0.4/srcs/asm-tree-sources.jar
-[debug] 		tried /Users/azerty/.ivy2/local/org.ow2.asm/asm-tree/5.0.4/srcs/asm-tree-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/5.0.4/asm-tree-5.0.4-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/5.0.4/asm-tree-5.0.4-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/5.0.4/asm-tree-5.0.4-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/5.0.4/asm-tree-5.0.4-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/5.0.4/asm-tree-5.0.4-sources.jar
-[info] 	[SUCCESSFUL ] org.ow2.asm#asm-tree;5.0.4!asm-tree.jar(src) (2878ms)
+[debug] 	[NOT REQUIRED] org.ow2.asm#asm-tree;5.0.4!asm-tree.jar(src)
 [debug] 	[NOT REQUIRED] org.json4s#json4s-ast_2.10;3.2.10!json4s-ast_2.10.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.10.6!scala-library.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#launcher-interface;1.0.0-M1!launcher-interface.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#sbt;0.13.13!sbt.jar(src)
-[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.pantsbuild/jarjar/1.6.0/srcs/jarjar-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/org.pantsbuild/jarjar/1.6.0/srcs/jarjar-sources.jar
-[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.pantsbuild/jarjar/1.6.0/srcs/jarjar-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.pantsbuild/jarjar/1.6.0/srcs/jarjar-sources.jar
-[debug] 		tried /Users/azerty/.ivy2/local/org.pantsbuild/jarjar/1.6.0/srcs/jarjar-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/pantsbuild/jarjar/1.6.0/jarjar-1.6.0-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/pantsbuild/jarjar/1.6.0/jarjar-1.6.0-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/pantsbuild/jarjar/1.6.0/jarjar-1.6.0-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/pantsbuild/jarjar/1.6.0/jarjar-1.6.0-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/pantsbuild/jarjar/1.6.0/jarjar-1.6.0-sources.jar
-[info] 	[SUCCESSFUL ] org.pantsbuild#jarjar;1.6.0!jarjar.jar(src) (520ms)
+[debug] 	[NOT REQUIRED] org.pantsbuild#jarjar;1.6.0!jarjar.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar(src)
-[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.apache.ant/ant/1.9.6/srcs/ant-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/org.apache.ant/ant/1.9.6/srcs/ant-sources.jar
-[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.apache.ant/ant/1.9.6/srcs/ant-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.apache.ant/ant/1.9.6/srcs/ant-sources.jar
-[debug] 		tried /Users/azerty/.ivy2/local/org.apache.ant/ant/1.9.6/srcs/ant-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/apache/ant/ant/1.9.6/ant-1.9.6-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/apache/ant/ant/1.9.6/ant-1.9.6-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/ant/ant/1.9.6/ant-1.9.6-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/ant/ant/1.9.6/ant-1.9.6-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/ant/ant/1.9.6/ant-1.9.6-sources.jar
-[info] 	[SUCCESSFUL ] org.apache.ant#ant;1.9.6!ant.jar(src) (5053ms)
-[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.eclipse.sisu/org.eclipse.sisu.plexus/0.3.0/srcs/org.eclipse.sisu.plexus-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/org.eclipse.sisu/org.eclipse.sisu.plexus/0.3.0/srcs/org.eclipse.sisu.plexus-sources.jar
-[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.eclipse.sisu/org.eclipse.sisu.plexus/0.3.0/srcs/org.eclipse.sisu.plexus-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.eclipse.sisu/org.eclipse.sisu.plexus/0.3.0/srcs/org.eclipse.sisu.plexus-sources.jar
-[debug] 		tried /Users/azerty/.ivy2/local/org.eclipse.sisu/org.eclipse.sisu.plexus/0.3.0/srcs/org.eclipse.sisu.plexus-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.3.0/org.eclipse.sisu.plexus-0.3.0-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.3.0/org.eclipse.sisu.plexus-0.3.0-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.3.0/org.eclipse.sisu.plexus-0.3.0-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.3.0/org.eclipse.sisu.plexus-0.3.0-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.3.0/org.eclipse.sisu.plexus-0.3.0-sources.jar
-[info] 	[SUCCESSFUL ] org.eclipse.sisu#org.eclipse.sisu.plexus;0.3.0!org.eclipse.sisu.plexus.jar(src) (767ms)
+[debug] 	[NOT REQUIRED] org.apache.ant#ant;1.9.6!ant.jar(src)
+[debug] 	[NOT REQUIRED] org.eclipse.sisu#org.eclipse.sisu.plexus;0.3.0!org.eclipse.sisu.plexus.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-tools.sbinary#sbinary_2.10;0.4.2!sbinary_2.10.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#api;0.13.13!api.jar(src)
-[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.jboss.interceptor/jboss-interceptor-api/1.1/srcs/jboss-interceptor-api-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/org.jboss.interceptor/jboss-interceptor-api/1.1/srcs/jboss-interceptor-api-sources.jar
-[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.jboss.interceptor/jboss-interceptor-api/1.1/srcs/jboss-interceptor-api-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.jboss.interceptor/jboss-interceptor-api/1.1/srcs/jboss-interceptor-api-sources.jar
-[debug] 		tried /Users/azerty/.ivy2/local/org.jboss.interceptor/jboss-interceptor-api/1.1/srcs/jboss-interceptor-api-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/jboss/interceptor/jboss-interceptor-api/1.1/jboss-interceptor-api-1.1-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/jboss/interceptor/jboss-interceptor-api/1.1/jboss-interceptor-api-1.1-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/jboss/interceptor/jboss-interceptor-api/1.1/jboss-interceptor-api-1.1-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/jboss/interceptor/jboss-interceptor-api/1.1/jboss-interceptor-api-1.1-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/jboss/interceptor/jboss-interceptor-api/1.1/jboss-interceptor-api-1.1-sources.jar
-[info] 	[SUCCESSFUL ] org.jboss.interceptor#jboss-interceptor-api;1.1!jboss-interceptor-api.jar(src) (418ms)
+[debug] 	[NOT REQUIRED] org.jboss.interceptor#jboss-interceptor-api;1.1!jboss-interceptor-api.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#incremental-compiler;0.13.13!incremental-compiler.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.13!apply-macro.jar(src)
 [debug] 	[NOT REQUIRED] org.spire-math#json4s-support_2.10;0.6.0!json4s-support_2.10.jar(src)
-[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.codehaus.plexus/plexus-component-annotations/1.5.5/srcs/plexus-component-annotations-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/org.codehaus.plexus/plexus-component-annotations/1.5.5/srcs/plexus-component-annotations-sources.jar
-[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.codehaus.plexus/plexus-component-annotations/1.5.5/srcs/plexus-component-annotations-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.codehaus.plexus/plexus-component-annotations/1.5.5/srcs/plexus-component-annotations-sources.jar
-[debug] 		tried /Users/azerty/.ivy2/local/org.codehaus.plexus/plexus-component-annotations/1.5.5/srcs/plexus-component-annotations-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5-sources.jar
-[info] 	[SUCCESSFUL ] org.codehaus.plexus#plexus-component-annotations;1.5.5!plexus-component-annotations.jar(src) (402ms)
-[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/javax.annotation/jsr250-api/1.0/srcs/jsr250-api-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/javax.annotation/jsr250-api/1.0/srcs/jsr250-api-sources.jar
-[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/javax.annotation/jsr250-api/1.0/srcs/jsr250-api-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/javax.annotation/jsr250-api/1.0/srcs/jsr250-api-sources.jar
-[debug] 		tried /Users/azerty/.ivy2/local/javax.annotation/jsr250-api/1.0/srcs/jsr250-api-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0-sources.jar
-[info] downloading https://repo1.maven.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0-sources.jar
-[info] 	[SUCCESSFUL ] javax.annotation#jsr250-api;1.0!jsr250-api.jar(src) (429ms)
+[debug] 	[NOT REQUIRED] org.codehaus.plexus#plexus-component-annotations;1.5.5!plexus-component-annotations.jar(src)
+[debug] 	[NOT REQUIRED] javax.annotation#jsr250-api;1.0!jsr250-api.jar(src)
 [debug] 	[NOT REQUIRED] com.thoughtworks.paranamer#paranamer;2.6!paranamer.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.13!test-agent.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#classfile;0.13.13!classfile.jar(src)
@@ -3894,37 +3634,10 @@
 [debug] 	[NOT REQUIRED] com.jcraft#jsch;0.1.50!jsch.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.6!scala-compiler.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#interface;0.13.13!interface.jar(src)
-[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/javax.inject/javax.inject/1/srcs/javax.inject-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/javax.inject/javax.inject/1/srcs/javax.inject-sources.jar
-[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/javax.inject/javax.inject/1/srcs/javax.inject-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/javax.inject/javax.inject/1/srcs/javax.inject-sources.jar
-[debug] 		tried /Users/azerty/.ivy2/local/javax.inject/javax.inject/1/srcs/javax.inject-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/javax/inject/javax.inject/1/javax.inject-1-sources.jar
-[info] downloading https://repo1.maven.org/maven2/javax/inject/javax.inject/1/javax.inject-1-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/javax/inject/javax.inject/1/javax.inject-1-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/javax/inject/javax.inject/1/javax.inject-1-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/javax/inject/javax.inject/1/javax.inject-1-sources.jar
-[info] 	[SUCCESSFUL ] javax.inject#javax.inject;1!javax.inject.jar(src) (420ms)
-[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/org.apache.commons/commons-compress/1.4.1/srcs/commons-compress-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/org.apache.commons/commons-compress/1.4.1/srcs/commons-compress-sources.jar
-[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.apache.commons/commons-compress/1.4.1/srcs/commons-compress-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.apache.commons/commons-compress/1.4.1/srcs/commons-compress-sources.jar
-[debug] 		tried /Users/azerty/.ivy2/local/org.apache.commons/commons-compress/1.4.1/srcs/commons-compress-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/apache/commons/commons-compress/1.4.1/commons-compress-1.4.1-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/apache/commons/commons-compress/1.4.1/commons-compress-1.4.1-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-compress/1.4.1/commons-compress-1.4.1-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-compress/1.4.1/commons-compress-1.4.1-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/commons/commons-compress/1.4.1/commons-compress-1.4.1-sources.jar
-[info] 	[SUCCESSFUL ] org.apache.commons#commons-compress;1.4.1!commons-compress.jar(src) (1034ms)
+[debug] 	[NOT REQUIRED] javax.inject#javax.inject;1!javax.inject.jar(src)
+[debug] 	[NOT REQUIRED] org.apache.commons#commons-compress;1.4.1!commons-compress.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#logging;0.13.13!logging.jar(src)
-[debug] 		tried https://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbt/sbt-native-packager/scala_2.10/sbt_0.13/1.2.0-M7/srcs/sbt-native-packager-sources.jar
-[debug] CLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/com.typesafe.sbt/sbt-native-packager/scala_2.10/sbt_0.13/1.2.0-M7/srcs/sbt-native-packager-sources.jar
-[debug] 		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.typesafe.sbt/sbt-native-packager/scala_2.10/sbt_0.13/1.2.0-M7/srcs/sbt-native-packager-sources.jar
-[info] downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.typesafe.sbt/sbt-native-packager/scala_2.10/sbt_0.13/1.2.0-M7/srcs/sbt-native-packager-sources.jar ...
-[debug] 	sbt-plugin-releases: downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.typesafe.sbt/sbt-native-packager/scala_2.10/sbt_0.13/1.2.0-M7/srcs/sbt-native-packager-sources.jar
-[debug] 	sbt-plugin-releases: downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.typesafe.sbt/sbt-native-packager/scala_2.10/sbt_0.13/1.2.0-M7/srcs/sbt-native-packager-sources.jar.sha1
-[debug] sha1 OK for https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.typesafe.sbt/sbt-native-packager/scala_2.10/sbt_0.13/1.2.0-M7/srcs/sbt-native-packager-sources.jar
-[info] 	[SUCCESSFUL ] com.typesafe.sbt#sbt-native-packager;1.2.0-M7!sbt-native-packager.jar(src) (3649ms)
-[debug] :: resolution report :: resolve 313ms :: artifacts dl 63276ms
+[debug] 	[NOT REQUIRED] com.typesafe.sbt#sbt-native-packager;1.2.0-M7!sbt-native-packager.jar(src)
+[debug] :: resolution report :: resolve 522ms :: artifacts dl 66ms
 [debug] 	report for default#sharemybike$sources_2.10;1.0 default produced in /Users/azerty/IdeaProjects/ShareMyBike/target/resolution-cache/reports/default-sharemybike$sources_2.10-default.xml
-[debug] 	resolve done (313ms resolve - 63276ms download)
+[debug] 	resolve done (522ms resolve - 66ms download)

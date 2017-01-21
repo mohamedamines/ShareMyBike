@@ -7,7 +7,7 @@
 		revision="1.0"
 		conf="default"
 		confs="default"
-		date="20170114212345"/>
+		date="20170121224258"/>
 	<dependencies>
 		<module organisation="com.typesafe.sbt" name="sbt-native-packager">
 			<revision name="1.2.0-M7" status="release" pubdate="20161112190356" resolver="sbt-chain" artresolver="sbt-chain" extra-scalaVersion="2.10" extra-sbtVersion="0.13" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="73">
@@ -160,12 +160,12 @@
 			</revision>
 		</module>
 		<module organisation="org.jboss.interceptor" name="jboss-interceptor-api">
-			<revision name="1.1" status="release" pubdate="20100720042027" resolver="public" artresolver="public" homepage="" downloaded="true" searched="true" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="67">
+			<revision name="1.1" status="release" pubdate="20100720042027" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="67">
 				<license name="lgpl" url="http://repository.jboss.org/licenses/lgpl-2.1.txt"/>
-				<metadata-artifact status="successful" details="" size="3952" time="303" location="/Users/azerty/.ivy2/cache/org.jboss.interceptor/jboss-interceptor-api/ivy-1.1.xml" searched="true" original-local-location="/Users/azerty/.ivy2/cache/org.jboss.interceptor/jboss-interceptor-api/ivy-1.1.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/jboss/interceptor/jboss-interceptor-api/1.1/jboss-interceptor-api-1.1.pom"/>
+				<metadata-artifact status="no" details="" size="2691" time="0" location="/Users/azerty/.ivy2/cache/org.jboss.interceptor/jboss-interceptor-api/ivy-1.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/jboss/interceptor/jboss-interceptor-api/1.1/jboss-interceptor-api-1.1.pom"/>
 				<caller organisation="javax.enterprise" name="cdi-api" conf="default, compile, runtime, master" rev="1.1" rev-constraint-default="1.1" rev-constraint-dynamic="1.1" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="jboss-interceptor-api" type="jar" ext="jar" status="successful" details="" size="5986" time="306" location="/Users/azerty/.ivy2/cache/org.jboss.interceptor/jboss-interceptor-api/jars/jboss-interceptor-api-1.1.jar">
+					<artifact name="jboss-interceptor-api" type="jar" ext="jar" status="no" details="" size="5986" time="0" location="/Users/azerty/.ivy2/cache/org.jboss.interceptor/jboss-interceptor-api/jars/jboss-interceptor-api-1.1.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/jboss/interceptor/jboss-interceptor-api/1.1/jboss-interceptor-api-1.1.jar"/>
 					</artifact>
 				</artifacts>

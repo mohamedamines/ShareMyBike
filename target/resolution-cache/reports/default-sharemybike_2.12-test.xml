@@ -7,51 +7,51 @@
 		revision="1.0"
 		conf="test"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20170114211723"/>
+		date="20170121162548"/>
 	<dependencies>
 		<module organisation="org.scalatest" name="scalatest_2.12">
-			<revision name="3.0.1" status="release" pubdate="20161110065252" resolver="public" artresolver="public" homepage="http://www.scalatest.org" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="16">
+			<revision name="3.0.1" status="release" pubdate="20161110065252" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scalatest.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="16">
 				<license name="the Apache License, ASL Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
-				<metadata-artifact status="successful" details="" size="5963" time="354" location="/Users/azerty/.ivy2/cache/org.scalatest/scalatest_2.12/ivy-3.0.1.xml" searched="true" original-local-location="/Users/azerty/.ivy2/cache/org.scalatest/scalatest_2.12/ivy-3.0.1.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.0.1/scalatest_2.12-3.0.1.pom"/>
+				<metadata-artifact status="no" details="" size="5287" time="0" location="/Users/azerty/.ivy2/cache/org.scalatest/scalatest_2.12/ivy-3.0.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.0.1/scalatest_2.12-3.0.1.pom"/>
 				<caller organisation="default" name="sharemybike_2.12" conf="test, compile, runtime" rev="3.0.1" rev-constraint-default="3.0.1" rev-constraint-dynamic="3.0.1" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="scalatest_2.12" type="bundle" ext="jar" status="successful" details="" size="6992597" time="17072" location="/Users/azerty/.ivy2/cache/org.scalatest/scalatest_2.12/bundles/scalatest_2.12-3.0.1.jar">
+					<artifact name="scalatest_2.12" type="bundle" ext="jar" status="no" details="" size="6992597" time="0" location="/Users/azerty/.ivy2/cache/org.scalatest/scalatest_2.12/bundles/scalatest_2.12-3.0.1.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.0.1/scalatest_2.12-3.0.1.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="org.scala-lang.modules" name="scala-xml_2.12">
-			<revision name="1.0.5" status="release" pubdate="20161029001007" resolver="public" artresolver="public" homepage="http://www.scala-lang.org/" downloaded="true" searched="true" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="19">
+			<revision name="1.0.5" status="release" pubdate="20161029001007" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="19">
 				<license name="BSD 3-clause" url="http://opensource.org/licenses/BSD-3-Clause"/>
-				<metadata-artifact status="successful" details="" size="2518" time="348" location="/Users/azerty/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/ivy-1.0.5.xml" searched="true" original-local-location="/Users/azerty/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/ivy-1.0.5.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.5/scala-xml_2.12-1.0.5.pom"/>
+				<metadata-artifact status="no" details="" size="3137" time="0" location="/Users/azerty/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/ivy-1.0.5.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.5/scala-xml_2.12-1.0.5.pom"/>
 				<caller organisation="org.scalatest" name="scalatest_2.12" conf="default, compile, runtime, master" rev="1.0.5" rev-constraint-default="1.0.5" rev-constraint-dynamic="1.0.5" callerrev="3.0.1"/>
 				<artifacts>
-					<artifact name="scala-xml_2.12" type="bundle" ext="jar" status="successful" details="" size="548430" time="1667" location="/Users/azerty/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/bundles/scala-xml_2.12-1.0.5.jar">
+					<artifact name="scala-xml_2.12" type="bundle" ext="jar" status="no" details="" size="548430" time="0" location="/Users/azerty/.ivy2/cache/org.scala-lang.modules/scala-xml_2.12/bundles/scala-xml_2.12-1.0.5.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.5/scala-xml_2.12-1.0.5.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="org.scalactic" name="scalactic_2.12">
-			<revision name="3.0.1" status="release" pubdate="20161110065016" resolver="public" artresolver="public" homepage="http://www.scalatest.org" downloaded="true" searched="true" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="17">
+			<revision name="3.0.1" status="release" pubdate="20161110065016" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scalatest.org" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="17">
 				<license name="the Apache License, ASL Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
-				<metadata-artifact status="successful" details="" size="2236" time="351" location="/Users/azerty/.ivy2/cache/org.scalactic/scalactic_2.12/ivy-3.0.1.xml" searched="true" original-local-location="/Users/azerty/.ivy2/cache/org.scalactic/scalactic_2.12/ivy-3.0.1.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.0.1/scalactic_2.12-3.0.1.pom"/>
+				<metadata-artifact status="no" details="" size="2967" time="0" location="/Users/azerty/.ivy2/cache/org.scalactic/scalactic_2.12/ivy-3.0.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.0.1/scalactic_2.12-3.0.1.pom"/>
 				<caller organisation="org.scalatest" name="scalatest_2.12" conf="default, compile, runtime, master" rev="3.0.1" rev-constraint-default="3.0.1" rev-constraint-dynamic="3.0.1" callerrev="3.0.1"/>
 				<artifacts>
-					<artifact name="scalactic_2.12" type="bundle" ext="jar" status="successful" details="" size="705564" time="2029" location="/Users/azerty/.ivy2/cache/org.scalactic/scalactic_2.12/bundles/scalactic_2.12-3.0.1.jar">
+					<artifact name="scalactic_2.12" type="bundle" ext="jar" status="no" details="" size="705564" time="0" location="/Users/azerty/.ivy2/cache/org.scalactic/scalactic_2.12/bundles/scalactic_2.12-3.0.1.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.0.1/scalactic_2.12-3.0.1.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="com.typesafe.akka" name="akka-http-testkit_2.12">
-			<revision name="10.0.1" status="release" pubdate="20161222180308" resolver="public" artresolver="public" homepage="http://akka.io" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="14">
+			<revision name="10.0.1" status="release" pubdate="20161222180308" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://akka.io" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="14">
 				<license name="Apache-2.0" url="https://opensource.org/licenses/Apache-2.0"/>
-				<metadata-artifact status="successful" details="" size="2810" time="347" location="/Users/azerty/.ivy2/cache/com.typesafe.akka/akka-http-testkit_2.12/ivy-10.0.1.xml" searched="true" original-local-location="/Users/azerty/.ivy2/cache/com.typesafe.akka/akka-http-testkit_2.12/ivy-10.0.1.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-http-testkit_2.12/10.0.1/akka-http-testkit_2.12-10.0.1.pom"/>
+				<metadata-artifact status="no" details="" size="3321" time="0" location="/Users/azerty/.ivy2/cache/com.typesafe.akka/akka-http-testkit_2.12/ivy-10.0.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-http-testkit_2.12/10.0.1/akka-http-testkit_2.12-10.0.1.pom"/>
 				<caller organisation="default" name="sharemybike_2.12" conf="test, compile, runtime" rev="10.0.1" rev-constraint-default="10.0.1" rev-constraint-dynamic="10.0.1" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="akka-http-testkit_2.12" type="jar" ext="jar" status="successful" details="" size="99695" time="638" location="/Users/azerty/.ivy2/cache/com.typesafe.akka/akka-http-testkit_2.12/jars/akka-http-testkit_2.12-10.0.1.jar">
+					<artifact name="akka-http-testkit_2.12" type="jar" ext="jar" status="no" details="" size="99695" time="0" location="/Users/azerty/.ivy2/cache/com.typesafe.akka/akka-http-testkit_2.12/jars/akka-http-testkit_2.12-10.0.1.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-http-testkit_2.12/10.0.1/akka-http-testkit_2.12-10.0.1.jar"/>
 					</artifact>
 				</artifacts>
@@ -96,12 +96,12 @@
 			</revision>
 		</module>
 		<module organisation="com.typesafe.akka" name="akka-stream-testkit_2.12">
-			<revision name="2.4.16" status="release" pubdate="20161221142903" resolver="public" artresolver="public" homepage="http://akka.io/" extra-info.apiURL="http://doc.akka.io/api/akka/2.4.16" downloaded="true" searched="true" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="15">
+			<revision name="2.4.16" status="release" pubdate="20161221142903" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://akka.io/" extra-info.apiURL="http://doc.akka.io/api/akka/2.4.16" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="15">
 				<license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
-				<metadata-artifact status="successful" details="" size="2687" time="346" location="/Users/azerty/.ivy2/cache/com.typesafe.akka/akka-stream-testkit_2.12/ivy-2.4.16.xml" searched="true" original-local-location="/Users/azerty/.ivy2/cache/com.typesafe.akka/akka-stream-testkit_2.12/ivy-2.4.16.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream-testkit_2.12/2.4.16/akka-stream-testkit_2.12-2.4.16.pom"/>
+				<metadata-artifact status="no" details="" size="3489" time="0" location="/Users/azerty/.ivy2/cache/com.typesafe.akka/akka-stream-testkit_2.12/ivy-2.4.16.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream-testkit_2.12/2.4.16/akka-stream-testkit_2.12-2.4.16.pom"/>
 				<caller organisation="com.typesafe.akka" name="akka-http-testkit_2.12" conf="default, compile, runtime, master" rev="2.4.16" rev-constraint-default="2.4.16" rev-constraint-dynamic="2.4.16" callerrev="10.0.1"/>
 				<artifacts>
-					<artifact name="akka-stream-testkit_2.12" type="jar" ext="jar" status="successful" details="" size="105349" time="624" location="/Users/azerty/.ivy2/cache/com.typesafe.akka/akka-stream-testkit_2.12/jars/akka-stream-testkit_2.12-2.4.16.jar">
+					<artifact name="akka-stream-testkit_2.12" type="jar" ext="jar" status="no" details="" size="105349" time="0" location="/Users/azerty/.ivy2/cache/com.typesafe.akka/akka-stream-testkit_2.12/jars/akka-stream-testkit_2.12-2.4.16.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream-testkit_2.12/2.4.16/akka-stream-testkit_2.12-2.4.16.jar"/>
 					</artifact>
 				</artifacts>
@@ -145,13 +145,13 @@
 			</revision>
 		</module>
 		<module organisation="com.typesafe.akka" name="akka-testkit_2.12">
-			<revision name="2.4.16" status="release" pubdate="20161221142721" resolver="public" artresolver="public" homepage="http://akka.io/" extra-info.apiURL="http://doc.akka.io/api/akka/2.4.16" downloaded="true" searched="true" default="false" conf="default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master" position="8">
+			<revision name="2.4.16" status="release" pubdate="20161221142721" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://akka.io/" extra-info.apiURL="http://doc.akka.io/api/akka/2.4.16" downloaded="false" searched="false" default="false" conf="default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master" position="8">
 				<license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
-				<metadata-artifact status="successful" details="" size="3115" time="353" location="/Users/azerty/.ivy2/cache/com.typesafe.akka/akka-testkit_2.12/ivy-2.4.16.xml" searched="true" original-local-location="/Users/azerty/.ivy2/cache/com.typesafe.akka/akka-testkit_2.12/ivy-2.4.16.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.12/2.4.16/akka-testkit_2.12-2.4.16.pom"/>
+				<metadata-artifact status="no" details="" size="3690" time="0" location="/Users/azerty/.ivy2/cache/com.typesafe.akka/akka-testkit_2.12/ivy-2.4.16.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.12/2.4.16/akka-testkit_2.12-2.4.16.pom"/>
 				<caller organisation="com.typesafe.akka" name="akka-stream-testkit_2.12" conf="compile, runtime" rev="2.4.16" rev-constraint-default="2.4.16" rev-constraint-dynamic="2.4.16" callerrev="2.4.16"/>
 				<caller organisation="default" name="sharemybike_2.12" conf="test, compile, runtime" rev="2.4.16" rev-constraint-default="2.4.16" rev-constraint-dynamic="2.4.16" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="akka-testkit_2.12" type="jar" ext="jar" status="successful" details="" size="220220" time="996" location="/Users/azerty/.ivy2/cache/com.typesafe.akka/akka-testkit_2.12/jars/akka-testkit_2.12-2.4.16.jar">
+					<artifact name="akka-testkit_2.12" type="jar" ext="jar" status="no" details="" size="220220" time="0" location="/Users/azerty/.ivy2/cache/com.typesafe.akka/akka-testkit_2.12/jars/akka-testkit_2.12-2.4.16.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.12/2.4.16/akka-testkit_2.12-2.4.16.jar"/>
 					</artifact>
 				</artifacts>
@@ -279,6 +279,13 @@
 					<artifact name="scala-library" type="jar" ext="jar" status="no" details="" size="5272325" time="0" location="/Users/azerty/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.1/scala-library-2.12.1.jar"/>
 					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.typesafe.slick" name="slick_2.12">
+			<revision name="3.1.1" error="not found" downloaded="false" searched="false" conf="default(compile)" position="-1">
+				<caller organisation="default" name="sharemybike_2.12" conf="test, compile, runtime" rev="3.1.1" rev-constraint-default="3.1.1" rev-constraint-dynamic="3.1.1" callerrev="1.0"/>
+				<artifacts>
 				</artifacts>
 			</revision>
 		</module>
