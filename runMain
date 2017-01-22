@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0mLoading project definition from /Users/azerty/IdeaProjects/ShareMyBike/project[0m
+[0m[[0minfo[0m] [0mSet current project to ShareMyBike (in build file:/Users/azerty/IdeaProjects/ShareMyBike/)[0m
+java.lang.RuntimeException: No main class detected.
+	at scala.sys.package$.error(package.scala:27)
+[0m[[31mtrace[0m] [0mStack trace suppressed: run [34mlast compile:run[0m for the full output.[0m
+[0m[[31merror[0m] [0m(compile:[31mrun[0m) No main class detected.[0m
+[0m[[31merror[0m] [0mTotal time: 0 s, completed 22-Jan-2017 20:02:11[0m

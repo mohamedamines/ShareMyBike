@@ -23,38 +23,29 @@ name hashing:
 1 items
 0 -> true
 products:
-26 items
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/Bikes.class
+20 items
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$1.class
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$2.class
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$4$$anonfun$apply$3$$anonfun$apply$4.class
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$4$$anonfun$apply$3$$anonfun$apply$5$$anonfun$apply$6.class
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$4$$anonfun$apply$3$$anonfun$apply$5$$anonfun$apply$7.class
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$4$$anonfun$apply$3$$anonfun$apply$5.class
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$4$$anonfun$apply$3.class
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$3.class
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$4$$anonfun$apply$2$$anonfun$apply$3.class
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$4$$anonfun$apply$2.class
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$4.class
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$5$$anonfun$apply$8$$anonfun$apply$9$$anonfun$apply$10.class
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$5$$anonfun$apply$8$$anonfun$apply$9$$anonfun$apply$11$$anonfun$apply$12.class
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$5$$anonfun$apply$8$$anonfun$apply$9$$anonfun$apply$11.class
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$5$$anonfun$apply$8$$anonfun$apply$9.class
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$5$$anonfun$apply$8.class
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$5$$anonfun$apply$4$$anonfun$apply$5$$anonfun$apply$6.class
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$5$$anonfun$apply$4$$anonfun$apply$5.class
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$5$$anonfun$apply$4.class
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$5.class
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$ShareMyBikeService$$anonfun$$fetchBike$1$1$$anonfun$apply$2.class
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$ShareMyBikeService$$anonfun$$fetchBike$1$1.class
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$ShareMyBikeService$$anonfun$$saveBike$1$1$$anonfun$3.class
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$ShareMyBikeService$$anonfun$$saveBike$1$1.class
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$apply$1.class
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$apply$13.class
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$apply$14.class
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$apply$7.class
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$apply$8.class
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1.class
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$.class
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$Bike$3.class
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$Bike$4$.class
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$Bikes.class
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService.class
 binary dependencies:
-13 items
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> /Users/azerty/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-2.1.0.jar
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> /Users/azerty/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+10 items
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.16.jar
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/.ivy2/cache/com.typesafe.akka/akka-http-core_2.11/jars/akka-http-core_2.11-10.0.1.jar
@@ -74,8 +65,7 @@ public inherited source dependencies:
 public inherited external dependencies:
 0 items
 member reference internal dependencies:
-1 items
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala
+0 items
 member reference external dependencies:
 0 items
 inheritance internal dependencies:
@@ -83,94 +73,29 @@ inheritance internal dependencies:
 inheritance external dependencies:
 0 items
 class names:
-26 items
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> Bikes
+20 items
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$1
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$2
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$3
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$4
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$4$$anonfun$apply$3
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$4$$anonfun$apply$3$$anonfun$apply$4
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$4$$anonfun$apply$3$$anonfun$apply$5
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$4$$anonfun$apply$3$$anonfun$apply$5$$anonfun$apply$6
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$4$$anonfun$apply$3$$anonfun$apply$5$$anonfun$apply$7
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$4$$anonfun$apply$2
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$4$$anonfun$apply$2$$anonfun$apply$3
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$5
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$5$$anonfun$apply$8
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$5$$anonfun$apply$8$$anonfun$apply$9
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$5$$anonfun$apply$8$$anonfun$apply$9$$anonfun$apply$10
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$5$$anonfun$apply$8$$anonfun$apply$9$$anonfun$apply$11
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$5$$anonfun$apply$8$$anonfun$apply$9$$anonfun$apply$11$$anonfun$apply$12
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$5$$anonfun$apply$4
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$5$$anonfun$apply$4$$anonfun$apply$5
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$5$$anonfun$apply$4$$anonfun$apply$5$$anonfun$apply$6
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$ShareMyBikeService$$anonfun$$fetchBike$1$1
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$ShareMyBikeService$$anonfun$$fetchBike$1$1$$anonfun$apply$2
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$ShareMyBikeService$$anonfun$$saveBike$1$1
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$ShareMyBikeService$$anonfun$$saveBike$1$1$$anonfun$3
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$apply$1
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$apply$13
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$apply$14
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$apply$7
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$$anonfun$main$1$$anonfun$apply$8
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$Bike$3
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$Bike$4$
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService$Bikes
 used names:
-353 items
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> <init>
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> <repeated>
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> Any
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> Bikes
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> C
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> Column
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> ColumnOption
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> FlatShapeLevel
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> Int
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> IntJdbcType
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> JdbcTypes
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> Level
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> M1
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> M2
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> M3
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> Nothing
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> P1
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> P2
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> P3
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> PostgresDriver
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> Predef
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> ProvenShape
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> Shape
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> ShapeLevel
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> SimpleQL
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> String
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> StringJdbcType
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> T
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> T1
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> T2
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> T3
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> Table
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> Tag
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> Tuple3
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> TypedType
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> U
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> U1
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> U2
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> U3
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> _$4
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> _$5
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> _$57
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> _$58
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> _$6
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> column
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> columnShape
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> description
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> driver
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> id
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> intColumnType
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> lifted
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> proveShapeOf
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> scala
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> simple
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> slick
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> speed
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> stringColumnType
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> tag
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> tuple3Shape
+312 items
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> &&
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> +
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> /
@@ -202,8 +127,9 @@ used names:
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Class
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ClassManifest
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ClassManifestFactory
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ClientError
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Coll
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Column
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ColumnOption
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Config
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ConfigFactory
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ConnectionContext
@@ -216,10 +142,13 @@ used names:
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Directive1
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Directives
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Done
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> DoneMarshaller
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> E
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> EmptyValue
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ExceptionHandler
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ExecutionContext
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ExecutionContextExecutor
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> FlatShapeLevel
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Flow
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> FromEntityUnmarshaller
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> FromMessageUnmarshaller
@@ -234,14 +163,17 @@ used names:
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> In
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> IndexOutOfBoundsException
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Int
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> IntJdbcType
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> IntJsonFormat
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Iterator
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> JF
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> JdbcBackend
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> JdbcTypes
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Join
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> JoinAux
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> JsonPrinter
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> L
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Level
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> List
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> LogSource
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Logging
@@ -249,15 +181,16 @@ used names:
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Long
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> LongJsonFormat
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> LongNumber
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> M1
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> M2
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> M3
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Marshaller
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> MatchError
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Materializer
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> None
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> NotFound
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> NotUsed
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Nothing
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Object
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> OnSuccessMagnet
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Option
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Out
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> P1
@@ -270,6 +203,7 @@ used names:
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Predef
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Product
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Properties
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ProvenShape
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Query
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> QueryInvoker
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> R
@@ -291,25 +225,26 @@ used names:
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ServerSettings
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Session
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> SessionDef
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Shape
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShapeLevel
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ShareMyBikeService
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> SimpleQL
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Some
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> SprayJsonSupport
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> StandardRoute
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Statics
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> StatusCode
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> StatusCodes
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> StdIn
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> String
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> StringContext
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> StringJdbcType
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> StringJsonFormat
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> StringMarshaller
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> T
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> T0
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> T1
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> T2
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> T3
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> TRM
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Table
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> TableElementType
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> TableQuery
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Tag
@@ -322,12 +257,20 @@ used names:
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Tuple1
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Tuple3
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> TupleOps
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Tupler
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> TypedType
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> U
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> U1
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> U2
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> U3
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Unit
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> Unmarshaller
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> _$23
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> _$3
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> _$4
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> _$5
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> _$57
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> _$58
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> _$6
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> _1
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> _2
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> _3
@@ -350,31 +293,29 @@ used names:
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> bindingFuture
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> canBuildFrom
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> classType
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> column
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> columnShape
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> com
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> complete
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> concurrent
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> config
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> connectionUrl
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> default
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> description
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> directives
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> dispatcher
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> driver
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> emptyResponse
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> entity
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> eq
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> event
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> executionContext
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> executor
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> fetchBike
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> finalizeHash
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> find
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> flatMap
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> forAnyRef
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> forURL
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> foreach
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> fromActorSystem
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> fromAnyClass
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> fromStatusCode
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> get
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> getClass
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> getInt
@@ -383,6 +324,7 @@ used names:
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> http
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> id
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> immutable
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> intColumnType
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> io
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> isInstanceOf
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> item
@@ -403,12 +345,13 @@ used names:
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> mix
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> model
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> onComplete
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> onSuccess
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> optionMarshaller
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> package
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> path
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> pathPrefix
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> post
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> println
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> proveShapeOf
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> qual$1
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> queryToAppliedQueryInvoker
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> readLine
@@ -418,7 +361,6 @@ used names:
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> runtime
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> s
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> saveBike
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> saved
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> scala
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> scaladsl
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> server
@@ -432,18 +374,19 @@ used names:
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> sprayJsonUnmarshaller
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> sprayjson
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> stream
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> stringColumnType
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> system
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> tag
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> terminate
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> toLong
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> toString
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> tuple3Shape
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> typedProductIterator
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> typesafe
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> unbind
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> unmarshalling
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> util
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> withSession
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> x
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> x$10
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> x$11
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> x$12
@@ -466,37 +409,30 @@ used names:
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ||
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> ~
 product stamps:
-26 items
-/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/Bikes.class -> lastModified(1485107892000)
-/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$1.class -> lastModified(1485107958000)
-/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$2.class -> lastModified(1485107958000)
-/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$4$$anonfun$apply$3$$anonfun$apply$4.class -> lastModified(1485107958000)
-/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$4$$anonfun$apply$3$$anonfun$apply$5$$anonfun$apply$6.class -> lastModified(1485107958000)
-/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$4$$anonfun$apply$3$$anonfun$apply$5$$anonfun$apply$7.class -> lastModified(1485107958000)
-/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$4$$anonfun$apply$3$$anonfun$apply$5.class -> lastModified(1485107958000)
-/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$4$$anonfun$apply$3.class -> lastModified(1485107958000)
-/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$4.class -> lastModified(1485107958000)
-/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$5$$anonfun$apply$8$$anonfun$apply$9$$anonfun$apply$10.class -> lastModified(1485107958000)
-/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$5$$anonfun$apply$8$$anonfun$apply$9$$anonfun$apply$11$$anonfun$apply$12.class -> lastModified(1485107958000)
-/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$5$$anonfun$apply$8$$anonfun$apply$9$$anonfun$apply$11.class -> lastModified(1485107958000)
-/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$5$$anonfun$apply$8$$anonfun$apply$9.class -> lastModified(1485107958000)
-/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$5$$anonfun$apply$8.class -> lastModified(1485107958000)
-/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$5.class -> lastModified(1485107958000)
-/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$ShareMyBikeService$$anonfun$$fetchBike$1$1$$anonfun$apply$2.class -> lastModified(1485107958000)
-/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$ShareMyBikeService$$anonfun$$fetchBike$1$1.class -> lastModified(1485107958000)
-/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$ShareMyBikeService$$anonfun$$saveBike$1$1$$anonfun$3.class -> lastModified(1485107958000)
-/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$ShareMyBikeService$$anonfun$$saveBike$1$1.class -> lastModified(1485107958000)
-/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$apply$1.class -> lastModified(1485107958000)
-/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$apply$13.class -> lastModified(1485107958000)
-/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$apply$14.class -> lastModified(1485107958000)
-/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1.class -> lastModified(1485107958000)
-/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$Bike$3.class -> lastModified(1485107958000)
-/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$Bike$4$.class -> lastModified(1485107958000)
-/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService.class -> lastModified(1485107958000)
+20 items
+/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$1.class -> lastModified(1485112481000)
+/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$2.class -> lastModified(1485112482000)
+/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$3.class -> lastModified(1485112482000)
+/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$4$$anonfun$apply$2$$anonfun$apply$3.class -> lastModified(1485112482000)
+/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$4$$anonfun$apply$2.class -> lastModified(1485112482000)
+/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$4.class -> lastModified(1485112482000)
+/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$5$$anonfun$apply$4$$anonfun$apply$5$$anonfun$apply$6.class -> lastModified(1485112482000)
+/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$5$$anonfun$apply$4$$anonfun$apply$5.class -> lastModified(1485112482000)
+/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$5$$anonfun$apply$4.class -> lastModified(1485112482000)
+/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$5.class -> lastModified(1485112482000)
+/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$ShareMyBikeService$$anonfun$$fetchBike$1$1.class -> lastModified(1485112482000)
+/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$apply$1.class -> lastModified(1485112482000)
+/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$apply$7.class -> lastModified(1485112482000)
+/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1$$anonfun$apply$8.class -> lastModified(1485112482000)
+/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$$anonfun$main$1.class -> lastModified(1485112481000)
+/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$.class -> lastModified(1485112481000)
+/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$Bike$3.class -> lastModified(1485112482000)
+/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$Bike$4$.class -> lastModified(1485112482000)
+/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService$Bikes.class -> lastModified(1485112482000)
+/Users/azerty/IdeaProjects/ShareMyBike/target/scala-2.11/classes/ShareMyBikeService.class -> lastModified(1485112481000)
 source stamps:
-2 items
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> hash(65f0134a6e7110c91b43dc0ee99b01506b738521)
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> hash(46a2762666a28074fb55df98ea41df9200c1ab34)
+1 items
+/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> hash(6f9aa1b6a895f4cb0e0372ab2dbba7c02662508f)
 binary stamps:
 10 items
 /Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1474584629000)
@@ -512,36 +448,26 @@ binary stamps:
 class names:
 10 items
 /Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
-/Users/azerty/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.16.jar -> akka.event.LogSource
-/Users/azerty/.ivy2/cache/com.typesafe.akka/akka-http-core_2.11/jars/akka-http-core_2.11-10.0.1.jar -> akka.http.scaladsl.settings.ParserSettings
-/Users/azerty/.ivy2/cache/com.typesafe.akka/akka-http-spray-json_2.11/jars/akka-http-spray-json_2.11-10.0.1.jar -> akka.http.scaladsl.marshallers.sprayjson.SprayJsonSupport$
-/Users/azerty/.ivy2/cache/com.typesafe.akka/akka-http_2.11/jars/akka-http_2.11-10.0.1.jar -> akka.http.scaladsl.server.RouteResult
-/Users/azerty/.ivy2/cache/com.typesafe.akka/akka-stream_2.11/jars/akka-stream_2.11-2.4.16.jar -> akka.stream.ActorMaterializerSettings
-/Users/azerty/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-2.1.0.jar -> scala.slick.driver.PostgresDriver$
+/Users/azerty/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.16.jar -> akka.Done$
+/Users/azerty/.ivy2/cache/com.typesafe.akka/akka-http-core_2.11/jars/akka-http-core_2.11-10.0.1.jar -> akka.http.scaladsl.Http$
+/Users/azerty/.ivy2/cache/com.typesafe.akka/akka-http-spray-json_2.11/jars/akka-http-spray-json_2.11-10.0.1.jar -> akka.http.scaladsl.marshallers.sprayjson.SprayJsonSupport
+/Users/azerty/.ivy2/cache/com.typesafe.akka/akka-http_2.11/jars/akka-http_2.11-10.0.1.jar -> akka.http.scaladsl.marshalling.Marshaller
+/Users/azerty/.ivy2/cache/com.typesafe.akka/akka-stream_2.11/jars/akka-stream_2.11-2.4.16.jar -> akka.stream.ActorMaterializer
+/Users/azerty/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-2.1.0.jar -> scala.slick.profile.RelationalTableComponent
 /Users/azerty/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar -> com.typesafe.config.ConfigFactory
 /Users/azerty/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.2.jar -> spray.json.DefaultJsonProtocol$
 /Users/azerty/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Serializable
 internal apis:
-2 items
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwpO/qHwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAwc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwU4vcW3QABm5vdGlmeXNxAH4ADFTgJBN0AAR3YWl0c3EAfgAMVolYJHQAASpzcQB+AAzrRQBBdAANJGFzSW5zdGFuY2VPZnNxAH4ADLXnBXJ0AAZlcXVhbHNzcQB+AAyZOutvdAAUZm9yZWlnbktleSRkZWZhdWx0JDVzcQB+AAy8NXISdAALZGVzY3JpcHRpb25zcQB+AAxqYHPudAAHaW5kZXhlc3NxAH4ADGa9hcZ0AAxhc0luc3RhbmNlT2ZzcQB+AAxiIPcMdAAQdGFibGVDb25zdHJhaW50c3NxAH4ADGPR64p0AApmb3JlaWduS2V5c3EAfgAMWflWRHQADHN5bmNocm9uaXplZHNxAH4ADKpubgx0AA0kaXNJbnN0YW5jZU9mc3EAfgAMYCJsPnQACWVuY29kZVJlZnNxAH4ADAWghyB0AAtwcmltYXJ5S2V5c3NxAH4ADANv5tt0AAl0YWJsZU5vZGVzcQB+AAwX+GoIdAANdGFibGVQcm92aWRlcnNxAH4ADBVWwr50AAtmb3JlaWduS2V5c3NxAH4ADN929Kx0AAlub3RpZnlBbGxzcQB+AAyYEn+AdAAKcHJpbWFyeUtleXNxAH4ADO8GFLJ0AAxpc0luc3RhbmNlT2ZzcQB+AAz+4BXAdAAUZm9yZWlnbktleSRkZWZhdWx0JDZzcQB+AAzL8bE4dAAGPGluaXQ+c3EAfgAMbx+ntHQAAmlkc3EAfgAMtpzbKnQACnNjaGVtYU5hbWVzcQB+AAzKh3y0dAAIY3JlYXRlXypzcQB+AAwVh6pndAAJdGFibGVOYW1lc3EAfgAM+hBaGnQACHRhYmxlVGFnc3EAfgAMTypTaXQAAj09c3EAfgAMf8zfd3QABWNsb25lc3EAfgAMCmMWHXQABnRvTm9kZXNxAH4ADMszCk90ABNjb2xsZWN0RmllbGRTeW1ib2xzc3EAfgAMAbDtEnQAEFRhYmxlRWxlbWVudFR5cGVzcQB+AAwdzm3zdAAFQmlrZXNzcQB+AAxBad6FdAAGY29sdW1uc3EAfgAMqZuEY3QACHRvU3RyaW5nc3EAfgAMQ7Xd13QAD2luZGV4JGRlZmF1bHQkM3NxAH4ADLroZkZ0AAIhPXNxAH4ADJ18GNh0AAhnZXRDbGFzc3NxAH4ADKniCrR0ABN0YWJsZUlkZW50aXR5U3ltYm9sc3EAfgAMLLc2d3QAAm5lc3EAfgAMnr8Bf3QAAU9zcQB+AAwC2LeidAACZXFzcQB+AAzeCwq7dAACIyNzcQB+AAzWU21fdAAFc3BlZWRzcQB+AAzDcjuAdAAIZmluYWxpemVzcQB+AAxiVTRadAAFaW5kZXhzcQB+AAz0daY6dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB3eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+AFF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AjnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgB3TAAJaW5oZXJpdGVkcQB+AHdMAAdwYXJlbnRzcQB+AHd4cQB+AJNzcQB+AI51cQB+AHIAAAAAc3EAfgCOdXEAfgByAAAAAHNxAH4AjnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAFc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTtbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AJJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXhxAH4AoHhxAH4AknQABVRhYmxlc3EAfgCjdAAOUG9zdGdyZXNEcml2ZXJzcQB+AKN0AAZkcml2ZXJzcQB+AKN0AAVzbGlja3NxAH4Ao3QABXNjYWxhc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCSc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAABc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdXEAfgCdAAAAAXNxAH4An3NxAH4Ao3QABlR1cGxlM3NxAH4ArnNxAH4AsXVxAH4AtAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHEAfgC3cQB+AK1xAH4AuHVxAH4AnQAAAANzcQB+AKN0AANJbnRxAH4AvXEAfgDDc3EAfgCjdAAGU3RyaW5nc3EAfgCuc3EAfgCxdXEAfgC0AAAAA3NxAH4AwHQABGphdmFzcQB+AMB0AARsYW5ncQB+ALhzcQB+AJ9zcQB+AKN0AA1BYnN0cmFjdFRhYmxlc3EAfgCuc3EAfgCxdXEAfgC0AAAABHNxAH4AwHEAfgCtc3EAfgDAdAAFc2xpY2tzcQB+AMB0AAZsaWZ0ZWRxAH4AuHVxAH4AnQAAAAFxAH4AunNxAH4An3NxAH4Ao3QAA1JlcHEAfgDRdXEAfgCdAAAAAXEAfgC6c3EAfgCjdAAGT2JqZWN0cQB+AMdzcQB+AKN0AANBbnlxAH4AvXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZx1P3JXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEAvVXNlcnMvYXplcnR5L0lkZWFQcm9qZWN0cy9TaGFyZU15QmlrZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUZfATSm5xEMkbQ9wO6ZsBUGtzhSE=
+1 items
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwceV5aQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAFzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHBrMswQdAAQZXhlY3V0aW9uQ29udGV4dHVxAH4ACQAAABZzcQB+AAv6yRyPdAAGbm90aWZ5c3EAfgALeOaF2XQABHdhaXRzcQB+AAt6CemidAANJGFzSW5zdGFuY2VPZnNxAH4AC8sW2PZ0AAZlcXVhbHNzcQB+AAvvqBvAdAAMYXNJbnN0YW5jZU9mc3EAfgALKRkPIXQADHN5bmNocm9uaXplZHNxAH4AC8Uk8bl0AA0kaXNJbnN0YW5jZU9mc3EAfgALmQn3unQABG1haW5zcQB+AAuvn0zOdAAJbm90aWZ5QWxsc3EAfgAL3S7VsHQADGlzSW5zdGFuY2VPZnNxAH4AC2+Ka4V0ABJTaGFyZU15QmlrZVNlcnZpY2VzcQB+AAvibqELdAAGPGluaXQ+c3EAfgALlrtnRHQAAj09c3EAfgALDes5znQABWNsb25lc3EAfgALtvUGrnQACHRvU3RyaW5nc3EAfgAL/4sO8nQAAiE9c3EAfgALV1dCPHQACGdldENsYXNzc3EAfgALFvfG13QAAm5lc3EAfgALWthHm3QAAmVxc3EAfgALS4SuGnQAAiMjc3EAfgALXf/A+XQACGZpbmFsaXplc3EAfgALWRF6/nQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ARXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFxzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBhc3EAfgBcdXEAfgBAAAAAAHNxAH4AXHVxAH4AQAAAAABzcQB+AFx1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGB0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHl0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHpzcQB+AG10AANBbnlzcQB+AHFzcQB+AHR1cQB+AHcAAAACc3EAfgB5dAAFc2NhbGFxAH4AgHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZx1T8w3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AEAvVXNlcnMvYXplcnR5L0lkZWFQcm9qZWN0cy9TaGFyZU15QmlrZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAURqJ2JmaigHT7Vd+Y6kHfkgDBqzQ=
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwHKYGDAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAyc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwhM/9gnQABm5vdGlmeXNxAH4ADCM3bR50AAR3YWl0c3EAfgAMrxKa/HQAASpzcQB+AAxHjlkkdAANJGFzSW5zdGFuY2VPZnNxAH4ADHsOjqp0AAZlcXVhbHNzcQB+AAySCsqOdAAUZm9yZWlnbktleSRkZWZhdWx0JDVzcQB+AAwqnOdmdAALZGVzY3JpcHRpb25zcQB+AAweYo5vdAAHaW5kZXhlc3NxAH4ADCNa3b90AAxhc0luc3RhbmNlT2ZzcQB+AAxMJw0gdAAQdGFibGVDb25zdHJhaW50c3NxAH4ADAfxJwZ0AApmb3JlaWduS2V5c3EAfgAM15/OoHQADHN5bmNocm9uaXplZHNxAH4ADNsK4kV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMIX/qWHQACWVuY29kZVJlZnNxAH4ADHq51950AAtwcmltYXJ5S2V5c3NxAH4ADJerYjp0AAl0YWJsZU5vZGVzcQB+AAzYyEngdAAEbWFpbnNxAH4ADFmSQV50AA10YWJsZVByb3ZpZGVyc3EAfgAMLSFQzXQAC2ZvcmVpZ25LZXlzc3EAfgAM1zSKMHQACW5vdGlmeUFsbHNxAH4ADFd57Qh0AApwcmltYXJ5S2V5c3EAfgAMk+ds9XQADGlzSW5zdGFuY2VPZnNxAH4ADOBCEcl0ABRmb3JlaWduS2V5JGRlZmF1bHQkNnNxAH4ADG+Ka4V0ABJTaGFyZU15QmlrZVNlcnZpY2VzcQB+AAzickaldAAGPGluaXQ+c3EAfgAM45UI+XQAAmlkc3EAfgAMSfGaQHQACnNjaGVtYU5hbWVzcQB+AAyb9eVVdAAIY3JlYXRlXypzcQB+AAy2Sf1YdAAJdGFibGVOYW1lc3EAfgAMzSTipnQACHRhYmxlVGFnc3EAfgAMoPoYNnQAAj09c3EAfgAMvTznhnQABWNsb25lc3EAfgAMvBA3WnQABnRvTm9kZXNxAH4ADEUSZRR0ABNjb2xsZWN0RmllbGRTeW1ib2xzc3EAfgAMGUYyD3QAEFRhYmxlRWxlbWVudFR5cGVzcQB+AAwC820zdAAFQmlrZXNzcQB+AAzAYDxYdAAGY29sdW1uc3EAfgAMrNNlN3QACHRvU3RyaW5nc3EAfgAMOziV83QAD2luZGV4JGRlZmF1bHQkM3NxAH4ADIJbEIx0AAIhPXNxAH4ADDVnSKB0AAhnZXRDbGFzc3NxAH4ADAmrYS10ABN0YWJsZUlkZW50aXR5U3ltYm9sc3EAfgAMHFwQy3QAAm5lc3EAfgAM7Off+XQAAU9zcQB+AAyKqqnodAACZXFzcQB+AAzHpY6MdAACIyNzcQB+AAxXd2T9dAAFc3BlZWRzcQB+AAyQvOC3dAAIZmluYWxpemVzcQB+AAwcX7vPdAAFaW5kZXhzcQB+AAyzd6+NdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB7eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+AD11cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AJJzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ae0wACWluaGVyaXRlZHEAfgB7TAAHcGFyZW50c3EAfgB7eHEAfgCXc3EAfgCSdXEAfgB2AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgB8cQB+AIV1cQB+AIYAAAAAc3EAfgCIAHEAfgAvdXEAfgCKAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJZ0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCWc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCydXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4An3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AjXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AplsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AlnNxAH4ApXQABUFycmF5cQB+AKt1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4ApXQABlN0cmluZ3NxAH4AqXNxAH4ArHVxAH4ArwAAAANzcQB+ALF0AARqYXZhc3EAfgCxdAAEbGFuZ3EAfgC2c3EAfgCSdXEAfgB2AAAAAHNxAH4AknVxAH4AygAAAAJzcQB+AKV0AAZPYmplY3RxAH4AznNxAH4ApXQAA0FueXEAfgCrdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVnHmgBjdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQC9Vc2Vycy9hemVydHkvSWRlYVByb2plY3RzL1NoYXJlTXlCaWtlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRvmqG2qJX0yw4Dcqstu6fAJmJQjw==
 external apis:
 0 items
 source infos:
-2 items
-/Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/Bikes.scala -> 
-AAAAAAAAAAA=
+1 items
 /Users/azerty/IdeaProjects/ShareMyBike/src/main/scala/ShareMyBikeService.scala -> 
 AAAAAAAAAAA=
 compilations:
-8 items
-0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWcc8yVZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9hemVydHkvSWRlYVByb2plY3RzL1NoYXJlTXlCaWtlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWcdDMHp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9hemVydHkvSWRlYVByb2plY3RzL1NoYXJlTXlCaWtlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWcdFG7x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9hemVydHkvSWRlYVByb2plY3RzL1NoYXJlTXlCaWtlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWcdIRJt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9hemVydHkvSWRlYVByb2plY3RzL1NoYXJlTXlCaWtlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWcdJU2R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9hemVydHkvSWRlYVByb2plY3RzL1NoYXJlTXlCaWtlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWcdR0iZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9hemVydHkvSWRlYVByb2plY3RzL1NoYXJlTXlCaWtlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWcdT9yV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9hemVydHkvSWRlYVByb2plY3RzL1NoYXJlTXlCaWtlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWcdU/MN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9hemVydHkvSWRlYVByb2plY3RzL1NoYXJlTXlCaWtlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWceKdYt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9hemVydHkvSWRlYVByb2plY3RzL1NoYXJlTXlCaWtlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWceaAGN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9hemVydHkvSWRlYVByb2plY3RzL1NoYXJlTXlCaWtlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
