@@ -2423,9 +2423,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.13!apply-macro.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
 [debug] 	[NOT REQUIRED] org.jboss.interceptor#jboss-interceptor-api;1.1!jboss-interceptor-api.jar
-[debug] :: resolution report :: resolve 2352ms :: artifacts dl 66ms
+[debug] :: resolution report :: resolve 2828ms :: artifacts dl 49ms
 [debug] 	report for default#sharemybike$sbt_2.10;1.0 default produced in /Users/azerty/IdeaProjects/ShareMyBike/target/resolution-cache/reports/default-sharemybike$sbt_2.10-default.xml
-[debug] 	resolve done (2352ms resolve - 66ms download)
+[debug] 	resolve done (2828ms resolve - 49ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: default#sharemybike$sources_2.10;1.0
 [debug] 	confs: [default]
@@ -3638,6 +3638,6 @@
 [debug] 	[NOT REQUIRED] org.apache.commons#commons-compress;1.4.1!commons-compress.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#logging;0.13.13!logging.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.sbt#sbt-native-packager;1.2.0-M7!sbt-native-packager.jar(src)
-[debug] :: resolution report :: resolve 522ms :: artifacts dl 66ms
+[debug] :: resolution report :: resolve 1200ms :: artifacts dl 118ms
 [debug] 	report for default#sharemybike$sources_2.10;1.0 default produced in /Users/azerty/IdeaProjects/ShareMyBike/target/resolution-cache/reports/default-sharemybike$sources_2.10-default.xml
-[debug] 	resolve done (522ms resolve - 66ms download)
+[debug] 	resolve done (1200ms resolve - 118ms download)

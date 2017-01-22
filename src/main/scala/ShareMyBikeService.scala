@@ -11,15 +11,18 @@ import com.typesafe.config.ConfigFactory
 import spray.json.DefaultJsonProtocol._
 
 import scala.io.StdIn
-import scala.concurrent.Future
+import scala.concurrent.{ExecutionContext, Future}
 import scala.slick.lifted.TableQuery
 import scala.slick.driver.PostgresDriver.simple._
 
-object ShareMyBikeService {
+
+object BikeService extends App {
+
+case class Bike(id: Long, speed: Int, description: String)
+
+class ShareMyBikeService(implicit val executionContext: ExecutionContext) {
 
   val connectionUrl = "jdbc:postgresql://localhost:5433/med?user=postgres&password=medamine"
-
-  case class Bike(id: Long, speed: Int, description: String)
 
   implicit val bikeFormat = jsonFormat3(Bike)
 
@@ -27,11 +30,30 @@ object ShareMyBikeService {
     implicit session =>
       val bikes = TableQuery[Bikes]
 
-      def fetchBike(id: Long): Future[Option[Bike]] = ???
+      val bikesList: List[Bike] = {
+        for {
+          bike <- bikes.list
+        } yield Bike(bike._1, bike._2, bike._3)
+      }
 
-      def saveBike(bike: Bike): Future[Done] = ???
+      bikesList foreach { item =>
+        println("bike with id " + item.id + " has speed " + item.speed + "with description: "
+          + item.description)
+      }
 
-      def main(args: Array[String]) {
+
+      def fetchBike(id: Long): Future[Option[Bike]] = Future {
+        bikesList.find(_.id == id)
+      }
+
+      def saveBike(bike: Bike): Future[Option[Done]] = Future {
+        bikesList.find(_.id == bike.id) match {
+          case Some(q) => None // Conflict! id is already taken
+          case None =>
+            bike :: bikesList // just saved locally!
+            Some(Done)
+        }
+      }
 
         implicit val system = ActorSystem()
         implicit val executor = system.dispatcher
@@ -54,7 +76,7 @@ object ShareMyBikeService {
             post {
               path("create-bike") {
                 entity(as[Bike]) { bike =>
-                  val saved: Future[Done] = saveBike(bike)
+                  val saved: Future[Option[Done]] = saveBike(bike)
                   onComplete(saved) { done =>
                     complete("bike saved")
 

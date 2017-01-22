@@ -4,7 +4,7 @@
 		module="sharemybike$sources_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20170121224304"
+		publication="20170122184604"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
