@@ -16,17 +16,17 @@ import scala.slick.lifted.TableQuery
 import scala.slick.driver.PostgresDriver.simple._
 
 
-object BikeService extends App {
-
-case class Bike(id: Long, speed: Int, description: String)
-
 class ShareMyBikeService(implicit val executionContext: ExecutionContext) {
 
-  val connectionUrl = "jdbc:postgresql://localhost:5433/med?user=postgres&password=medamine"
+  def main(args: Array[String]): Unit = {
 
-  implicit val bikeFormat = jsonFormat3(Bike)
+    val connectionUrl = "jdbc:postgresql://localhost:5433/med?user=postgres&password=medamine"
 
-  Database.forURL(connectionUrl, driver = "org.postgresql.Driver") withSession {
+    case class Bike(id: Long, speed: Int, description: String)
+
+    implicit val bikeFormat = jsonFormat3(Bike)
+
+    Database.forURL(connectionUrl, driver = "org.postgresql.Driver") withSession {
     implicit session =>
       val bikes = TableQuery[Bikes]
 
@@ -54,6 +54,7 @@ class ShareMyBikeService(implicit val executionContext: ExecutionContext) {
             Some(Done)
         }
       }
+
 
         implicit val system = ActorSystem()
         implicit val executor = system.dispatcher
